@@ -1,5 +1,9 @@
+/**
 // Carousel Pager for Bootstrap jQuery Plugin
 // (c)2012 Selectabase Ltd
+// http://www.selectabase.co.uk/
+//
+// GPL
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -14,8 +18,7 @@
 // You should have received a copy of the GNU General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //
-// Copyright 2012 Selectabase Ltd
-// http://www.selectabase.co.uk/
+// MIT
 //
 // Permission is hereby granted, free of charge, to any person obtaining
 // a copy of this software and associated documentation files (the
@@ -40,6 +43,7 @@
 // 1) Import Script (after jQuery and Bootstrap)
 // 2) Call $('.carousel').carouselPager();
 // 3) Define css styles for .carousel-pager, .carousel-pager a and .carousel-pager a.active
+**/
 
 jQuery.fn.carouselPager = function()
 {
